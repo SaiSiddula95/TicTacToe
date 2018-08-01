@@ -1,0 +1,23 @@
+{
+  "name": "tictactoe",
+  "version": "1.0.0",
+  "description": "Simple Game of Tic-Tac-Toe",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SaiSiddula95/TicTacToe.git"
+  },
+  "author": "Sai Siddula",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SaiSiddula95/TicTacToe/issues"
+  },
+  "homepage": "https://github.com/SaiSiddula95/TicTacToe#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "socket.io": "^2.1.1"
+  }
+}
