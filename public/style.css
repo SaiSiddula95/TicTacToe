@@ -1,30 +1,15 @@
-/* Width of 100pz, height of 100px*/
-
-
-h1{
-  text-align: center;
-}
-td{
-  height: 100px;
-  width: 100px;
-
+body{
+  padding-top: 20px;
 }
 
-table{
-  margin: auto;
-}
+.container{
 
-.vertical{
-  border-left: black 1px solid;
-  border-right: black 1px solid;
-}
-
-.horizontal{
-  border-top: black 1px solid;
-  border-bottom: black 1px solid;
+  border: black solid 2px;
+  padding: 10px;
 }
 
 button{
-height: 98px;
-width: 98px;
+  padding-top: 10px;
+  /* width: 10px;
+  height: 10px; */
 }
